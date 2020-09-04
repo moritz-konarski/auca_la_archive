@@ -1,2 +1,3 @@
-# auca_la_archive
-Archive repository for auca liberal arts courses
+# AUCA Liberal Arts Archive
+
+Archive repository for AUCA liberal arts courses.
