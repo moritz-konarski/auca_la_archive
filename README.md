@@ -1,7 +1,7 @@
 # AUCA Liberal Arts Courses
 
 This repository contains the folders I accumulated over 4 years of studying
-Applied Mathematics and Informatics at [AUCA][1] (2017-2021). I took the following courses:
+Applied Mathematics and Informatics at [AUCA][1] (2017-2021). I took the following liberal arts courses (some did not have folders):
 1. American Fine Arts (ART-307.1)
 4. Identity Nation State Europeanization (ES-237)
 7. New Mass Media (ES/JR-236)
