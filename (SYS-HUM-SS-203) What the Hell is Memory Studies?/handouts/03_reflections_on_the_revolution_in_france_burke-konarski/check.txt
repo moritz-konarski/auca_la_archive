@@ -1,0 +1,78 @@
+
+
+
+
+../graphics/
+
+
+nosep
+
+    [Path=/home/moritz/Documents/thesis.git/writing/drafts/00_fonts/]
+    times.ttf[
+    BoldFont       = timesbd.ttf,
+    ItalicFont     = timesi.ttf,
+    BoldItalicFont = timesbi.ttf
+    ]
+
+Name: 
+
+Date: March 8, 2021
+
+
+
+
+
+Main Idea.
+
+The Anglo-Irish philosopher and one of the founders of conservatism Edmund Burke 
+(1729-1797) comments on the French Revolution (about 1789-1799) and laments 
+the course it took. 
+He holds the view that a state and government ought to be built on ancient 
+traditions and rules. Those rules should be inherited from "canonized 
+forefathers" (p. 65) and no one should add something unnatural to them; 
+creating a government from scratch fills him with disgust. 
+Addressing the French people, he tells them they threw away their great
+heritage and forgot their honor. Had they built on the existing foundations,
+they could have had the best government and state ever. Building on ancient
+tradition would have lead to a rich, flourishing, strong, and admirable
+country, constitution, monarchy, and people. At the end of this excerpt he 
+states that virtue will bring happiness regardless of social standing and 
+telling a commoner anything else is fiction; civil classes are established for
+the benefit of the commoner as much as for the benefit of the lord.
+From a memory studies perspective he is advocating for 
+remembering the values and virtues of previous societies and implementing them
+in the current society. In a way he seems to say one should never forget what
+the forefathers did because their actions should guide current decisions.
+
+Terms.
+
+*
+    political conservatism
+    ancient, indisputable laws and liberties
+    canonized forefathers
+    low born servile wretches
+    Maroon slaves
+    moral equality of mankind
+
+Select Quotes.
+
+
+    "The Revolution was made to preserve our ancient, indisputable laws
+        and liberties, and that ancient constitution of government which is
+        our only security for law and liberty" (p. 65)
+    "You had all these advantages in your ancient states; but you chose 
+        to act as if you had never been moulded into civil society, and had 
+        everything to begin anew. You began ill, because you began by despising 
+        everything that belonged to you" (p. 66)
+    "You had a smooth and easy career of felicity and glory laid open to 
+        you beyond anything recorded in the history of the world; but you have 
+        shown that difficulty is good for men" (p. 67)
+
+Questions.
+
+
+    Do you agree with Burke's view of revolution?
+    If we follow Burke's way of creating government and society, can we 
+        ever truly improve either?
+
+

@@ -1,0 +1,11 @@
+#!/bin/bash
+
+pandoc *.md -o notes.pdf        \
+       -V fontsize=12pt         \
+       -V papersize=a4          \
+       -V geometry:margin=1in   \
+       --toc --toc-depth=1      \
+       --number-sections        \
+       -Vdocumentclass=article  \
+       --verbose
+

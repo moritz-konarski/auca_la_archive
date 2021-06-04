@@ -1,0 +1,4 @@
+#!/bin/bash
+
+pandoc $1 -o out.pdf --pdf-engine=lualatex -V geometry:margin=1in \
+        -V fontsize=11pt -V papersize=a4
